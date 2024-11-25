@@ -1,4 +1,4 @@
-mongodb+srv://kaisarahmadbhat1108:XitjohRkhSHMjyeD@cluster0.mw40e.mongodb.net/
+
 
 
 Inserting Documents in a MongoDB Collection
